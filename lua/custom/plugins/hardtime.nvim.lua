@@ -13,5 +13,6 @@ return {
       ['<Left>'] = { '', 'i' },
       ['<Right>'] = { '', 'i' },
     },
+    restriction_mode = 'hint',
   },
 }
